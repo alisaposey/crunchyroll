@@ -131,3 +131,12 @@ a{
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
+
+.footer-link{
+	color: gray;
+	text-decoration: none;
+}
+
+.footer-copyright{
+	color: gray;
+}
